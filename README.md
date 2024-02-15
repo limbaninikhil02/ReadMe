@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil
-- 👀 I’m interested in Data Science and Web development
-- 🌱 I’m currently learning Python Full Stack
+- 👀 A greart for Data Analyst  and Web developer
+- 🌱 I’m Improving Efficiency in Python Full Stack
 - 📫 How to reach me: www.linkedin.com/in/nikhil-limbani
 
 
